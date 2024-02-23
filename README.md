@@ -8,8 +8,8 @@ Atualmente estou estudando o curso de Desenvolvedor Front-end para o programa **
 ## Formação
 
 ### Tecnologias que estou aprendendo:
-*HTML
-*CSS
+* HTML
+* CSS
 
 😁
 <!--
