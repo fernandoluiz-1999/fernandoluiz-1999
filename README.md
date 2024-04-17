@@ -10,6 +10,7 @@ Atualmente estou estudando o curso de Desenvolvedor Front-end para o programa **
 ### Tecnologias que estou aprendendo:
 * HTML
 * CSS
+* JavaScript
 
 😁
 <!--
